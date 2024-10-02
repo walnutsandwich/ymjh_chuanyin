@@ -1,6 +1,4 @@
 
-# 迁移本地数据库到mongodb
-
 import sqlite3
 import os
 from bson.json_util import dumps, loads
@@ -10,7 +8,7 @@ from pymongo.mongo_client import MongoClient
 from datetime import datetime,timedelta
 import pytz
 
-uri = "mongodb+srv://tianwenliu:tianwenliu@tianwen6.i6mum.mongodb.net/?retryWrites=true&w=majority&appName=Tianwen6"
+uri = "填入MongoDB远程链接"
 mongo_dbname = 'tw6_db'
 mongo_collection_name = 'cy'
 sqlite_db_name = 'local_database.db'
