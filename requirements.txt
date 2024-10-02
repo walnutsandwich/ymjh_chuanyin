@@ -1,0 +1,6 @@
+paddlepaddle
+paddleocr
+pywinauto
+pillow
+pytz
+pymongo
