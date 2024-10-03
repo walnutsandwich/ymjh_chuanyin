@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 运行：  
 (1) 启动一梦江湖pc，进入后打开系统频道，外置频道，最好放大游戏全屏，可以切换到其他程序但不要最小化游戏  
-(2) 命令行进入上面安装好依赖库的环境，启动 start.py   
+(2) 管理员模式cmd命令行进入上面安装好依赖库的环境，启动 start.py   
 (3) 检查新生成的游戏窗口截图 game_screenshot.png 和 频道区域截图 cropped_game_screenshot.png 是否正确  
 (4) 如果有人发传音的话，会在输出消息中显示出来识别结果。然后在网站上看看是否正常更新。  
 
